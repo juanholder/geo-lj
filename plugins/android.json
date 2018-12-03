@@ -1,0 +1,58 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-datepicker": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyBMJX9Vq611WbhfPWGMRVB_STdBSMd7SEs",
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-spinner": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.lj.geo"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.lj.geo"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.lj.geo"
+    }
+  }
+}
